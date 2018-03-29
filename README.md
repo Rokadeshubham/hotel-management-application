@@ -22,5 +22,4 @@ And from the `Booking Dairy` Menu you'll be able to search by the room name and 
 `Checkout&Payment` also works in similar fashion. search by room name, explicitly check out them by clicking it and then generate payment & print. ( the most undone part is this section). you'll see the printing pdf has merely anything but the table. It's still a good idea to see the code to understand how to initate this things.
 
 
-![Alt text](https://s32.postimg.org/4hbw178qt/hotel_management.png "Optional title")
 # Hotel-management-application 
